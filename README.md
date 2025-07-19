@@ -9,13 +9,14 @@
   <a href="https://github.com/eben98">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=eben98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Mobile Engineer** with 4+ years of cross-platform experience designing, developing, and maintaining performant iOS and Android applications with **Flutter** and **Dart**. My background spans fintech, ed-tech, and research, and I thrive on building robust solutions, integrating APIs, and collaborating in agile teams. 
+I'm a passionate **Mobile Engineer** with 4+ years of experience designing, developing, and maintaining performant iOS and Android applications with **Flutter** and **Dart**. My background spans fintech, ed-tech, and research, and I thrive on building robust solutions, integrating APIs, and collaborating in agile teams. 
 
 - 🚀 Currently pursuing my **Master's in Computer Science** at DePaul University (GPA: 3.95)
 - 🧑‍🏫 Graduate Teaching & Research Assistant at DePaul, focusing on control systems, robotics, and AI in healthcare
@@ -35,10 +36,17 @@ I'm a passionate **Mobile Engineer** with 4+ years of cross-platform experience 
 
 ## 🧑‍🔬 Research & Academic Projects
 
-- **Flutter Sensor Analytics for Parkinson’s Research:** Built mobile app to collect and analyze gait data.
-- **IMU Data Analysis for Gait Authentication:** Used AirPods and ML for biometric alternatives for visually impaired users.
-- **Brainstem Gene-Behavior Research:** Applied Python, ML, and image analysis to neuroscience datasets.
-- **Recommender Systems & Heart Disease Prediction:** [See project repositories](#) *(add links if available!)*
+- **Recommender Systems:**  
+  [final_project.ipynb (GitHub)](https://github.com/eben98/dsc_478_final_project_rec_system/blob/main/final_project.ipynb)  
+  [View repo](https://github.com/eben98/dsc_478_final_project_rec_system)
+
+- **Heart Disease Prediction:**  
+  [Final_project.Rmd (GitHub)](https://github.com/eben98/heart_prediction_with_r/blob/main/Final_project.Rmd)  
+  [View repo](https://github.com/eben98/heart_prediction_with_r)
+
+- **Deep Learning (CSC 578 Final Project):**  
+  [Colab Notebook](https://colab.research.google.com/github/eben98/csc_578_final_project/blob/main/Final_Project_CSC_578.ipynb)  
+  [View repo](https://github.com/eben98/csc_578_final_project)
 
 ---
 
@@ -101,9 +109,3 @@ I'm a passionate **Mobile Engineer** with 4+ years of cross-platform experience 
 </p>
 
 ---
-
-<!-- Optional: Add a quote or fun fact here if you want! -->
-<!--
-## 💡 Fun Fact
-"I believe in building tech that empowers people and improves lives."
--->

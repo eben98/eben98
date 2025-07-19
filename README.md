@@ -9,7 +9,6 @@
   <a href="https://github.com/eben98">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=eben98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---

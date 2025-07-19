@@ -36,11 +36,11 @@ I'm a passionate **Mobile Engineer** with 4+ years of experience designing, deve
 ## 🧑‍🔬 Research & Academic Projects
 
 - **Flutter Sensor Analytics for Parkinson’s Research**  
-  *Built a mobile app in Flutter to collect and analyze gait data for Parkinson’s disease research, collaborating with DePaul’s College of Science and Health.*
+  *Designed and developed a cross-platform mobile application in Flutter to record and analyze gait sensor data from smartphones, supporting clinical research on Parkinson’s disease walking patterns.*
   <!-- If you want to add a repo link, insert it here -->
 
 - **IMU Data Analysis for Gait Authentication**  
-  *Developed a Flutter-based solution using AirPods and machine learning to authenticate users via gait patterns, supporting accessibility for visually impaired users.*
+  *Engineered an innovative Flutter solution that streams and processes IMU data from Apple AirPods, utilizing machine learning to authenticate users based on gait and advancing accessibility for the visually impaired. This aims to replaced biometric authentication.*
   <!-- If you want to add a repo link, insert it here -->
 
 - **Recommender Systems**  

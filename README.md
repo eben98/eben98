@@ -9,7 +9,6 @@
   <a href="https://github.com/eben98">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=eben98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -36,19 +35,25 @@ I'm a passionate **Mobile Engineer** with 4+ years of experience designing, deve
 
 ## 🧑‍🔬 Research & Academic Projects
 
-- **Recommender Systems:**  
+- **Flutter Sensor Analytics for Parkinson’s Research**  
+  *Built a mobile app in Flutter to collect and analyze gait data for Parkinson’s disease research, collaborating with DePaul’s College of Science and Health.*
+  <!-- If you want to add a repo link, insert it here -->
+
+- **IMU Data Analysis for Gait Authentication**  
+  *Developed a Flutter-based solution using AirPods and machine learning to authenticate users via gait patterns, supporting accessibility for visually impaired users.*
+  <!-- If you want to add a repo link, insert it here -->
+
+- **Recommender Systems**  
   [final_project.ipynb (GitHub)](https://github.com/eben98/dsc_478_final_project_rec_system/blob/main/final_project.ipynb)  
   [View repo](https://github.com/eben98/dsc_478_final_project_rec_system)
 
-- **Heart Disease Prediction:**  
+- **Heart Disease Prediction**  
   [Final_project.Rmd (GitHub)](https://github.com/eben98/heart_prediction_with_r/blob/main/Final_project.Rmd)  
   [View repo](https://github.com/eben98/heart_prediction_with_r)
 
-- **Deep Learning (CSC 578 Final Project):**  
+- **Deep Learning (CSC 578 Final Project)**  
   [Colab Notebook](https://colab.research.google.com/github/eben98/csc_578_final_project/blob/main/Final_Project_CSC_578.ipynb)  
   [View repo](https://github.com/eben98/csc_578_final_project)
-
----
 
 ## 🛠️ Skills & Tech Stack
 
